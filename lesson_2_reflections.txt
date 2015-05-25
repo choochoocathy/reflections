@@ -17,3 +17,7 @@ Branches would be helpful in situations where you want to keep a clean copy but 
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help you see which commits are parents of other commits, and which commits cannot be reached.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that you can merge the changes on the branch back in with the master branch, while keeping all the information about the branched checkins.
