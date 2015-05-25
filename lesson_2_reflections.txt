@@ -21,3 +21,7 @@ Diagrams help you see which commits are parents of other commits, and which comm
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is that you can merge the changes on the branch back in with the master branch, while keeping all the information about the branched checkins.
+
+What are the pros and cons of Git.s automatic merging vs. always doing merges manually?
+
+Automatic merging is faster but more error-prone.
