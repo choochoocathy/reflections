@@ -6,3 +6,7 @@ remote server for backup.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Pushing changes rather than having Git automatically stay up-to-date avoids having changes to the remote overwrite or interfere with your local changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Use a fork to copy a project within github to another project within github. Use a clone to copy from github to a local version, or within local repositories, when you need a working copy. Use branches when you think you may want to merge changes back in with the main code base.
