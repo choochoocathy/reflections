@@ -14,3 +14,7 @@ Use a fork to copy a project within github to another project within github. Use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Can be beneficial for planning to merge, or having an offline copy while you are working on changes that may need to be merged back in with the main code base.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collborate using Google Docs. This would be easier at first because I wouldn't have to learn Git, but it would be much harder to track changes and agree on conflicts as the project got more complex. 
